@@ -2,7 +2,7 @@
   ## Olá! eu sou  DwIgor
 
 - 🔭 Estudante de TI, foco em mudar de area e ingressar no universo DEVELOPER. 
-- 🌱Estou cursando TECNICO EM INFORMATICA.
+- 🌱Estou cursando Bootcamp da Generetion Brasil - Desenvolvedor Java Full Stack.
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
