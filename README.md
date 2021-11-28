@@ -1,5 +1,5 @@
 
-  ## Olá! eu sou  DwIgor
+  ## Olá! eu sou IgorMV
 
 - 🔭 Estudante de TI, foco em mudar de area e ingressar no universo DEVELOPER. 
 - 🌱Estou cursando Bootcamp da Generetion Brasil - Desenvolvedor Java Full Stack.
