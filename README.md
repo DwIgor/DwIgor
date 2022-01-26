@@ -1,8 +1,7 @@
 
   ## Olá! eu sou IgorMV
-
-- 🔭 Estudante de TI, foco em mudar de area e ingressar no universo DEVELOPER. 
-- 🌱Estou cursando Bootcamp da Generetion Brasil - Desenvolvedor Java Full Stack.
+- 🔭 Apaixonado por aprender, conhecer novas pessoas, novas tecnologias e resolver problemas. Mergulhei de cabeça no universo da tecnologia com o intuito de absorver cada ensinamento técnico e conseguir trilhar minha carreira em TI.
+- 🌱Cursando Bootcamp da Generetion Brasil - Desenvolvedor Java Full Stack.
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
