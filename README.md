@@ -1,6 +1,6 @@
 
   ## Olá! eu sou IgorMV
-- 🔭 Apaixonado por aprender, por novas tecnologias e como resolver e previnir problemas. Mergulhei de cabeça no universo da tecnologia com o intuito de absorver cada ensinamento técnico e conseguir trilhar minha carreira em TI.
+- 🔭 Apaixonado por aprender, por novas tecnologias e como resolver e prevenir problemas. Mergulhei de cabeça no universo da tecnologia com o intuito de absorver cada ensinamento técnico e conseguir trilhar minha carreira em TI.
 - 🌱Cursando Bootcamp da Generetion Brasil - Desenvolvedor Java Full Stack.
 - 😄 Pronouns: Ele/Dele
 
