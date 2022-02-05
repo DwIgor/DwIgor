@@ -19,7 +19,7 @@
   <a href = "mailto:igormv15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   </div>
-  <img align="right" height="195em" src="https://github-readme-stats.vercel.app/api?username=DwIgor&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="175em" src="https://github-readme-stats.vercel.app/api?username=DwIgor&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block"><br>
 </div>
 
