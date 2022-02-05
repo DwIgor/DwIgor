@@ -1,30 +1,39 @@
 
-  ## Olá! eu sou IgorMV
-- 🔭 Apaixonado por aprender, por novas tecnologias e como resolver e prevenir problemas. Mergulhei de cabeça no universo da tecnologia com o intuito de absorver cada ensinamento técnico e conseguir trilhar minha carreira em TI.
-- 🌱Cursando Bootcamp da Generetion Brasil - Desenvolvedor Java Full Stack.
-- 😄 Pronouns: Ele/Dele
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/igor-mendes-b051a11bb/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DwIgor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwIgor&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="igor-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="igor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="igor-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="igor-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="igor-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  
 
-</div>
+
+
+ ## Prazer! Igor Mendes. 
+     
+<img align="right" alt="igor-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89522757/152626569-ad952870-171b-49c2-a15e-cf016df003af.gif?width=676&height=676">
+
+
+- 🎓 Técnico em Informática - Cisco Net Academy
+- 📚 Cursando Bootcamp da Generetion Brasil - Desenvolvedor Java Full Stack.
+## Habilidades | Soft skills
   
-##
-  <div>
-  <a href = "mailto:igormv15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+• Resiliente | Analítico | Dinâmico | Proativo | Empático | Senso de Urgência.
+## Veja Tambem | See Too
+<div>
   <a href="https://www.linkedin.com/in/igor-mendes-b051a11bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href = "mailto:igormv15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
+  </div>
+  <img align="right" height="195em" src="https://github-readme-stats.vercel.app/api?username=DwIgor&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <div style="display: inline_block"><br>
+</div>
+
+## Estudadando | Studying 
+<div>
+  <a href = "https://www.oracle.com/java/technologies/javase-documentation.html"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+  <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a> 
+    <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> 
+    <a href="https://devcenter.heroku.com/categories/reference" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a> 
+  </div>
+
+  
+
+  
