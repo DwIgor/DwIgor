@@ -7,11 +7,11 @@
  <img align="right" height="175em" src="https://github-readme-stats.vercel.app/api?username=DwIgor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block"><br>
  
-- 🎓  Técnico em Informática - Cisco Net Academy.
-- 🎓  Técnico em Informática - Senac 
-- :3rd_place_medal: Semi Finalista do Programa EmpreendaSenac com a Caneta BETs.
-- 📚  Analise e Desenvolvimento de Sistemas - Fatec.
-- 📚  Desenvolvedor Web Full Stack Java - Generetion Brasil.
+ - 🎓  <b>Técnico em Informática - Cisco Net Academy.</b>
+- 🎓   <b>Técnico em Informática - Senac 
+- :3rd_place_medal: Semi Finalista do Programa EmpreendaSenac com a Caneta BETs.</b>
+- 📚  <b> Analise e Desenvolvimento de Sistemas - Fatec.</b>
+- 📚   <b>Desenvolvedor Web Full Stack Java - Generetion Brasil.</b>
  
  
 ## Estudadando | Studying 
@@ -29,9 +29,9 @@
 
   </div>
   
-## Habilidades | Soft skills
+##<b> Habilidades | Soft skills</b>
   
-• Resiliente | Analítico | Dinâmico | Proativo | Empático | Senso de Urgência.
+•<b>Resiliente | Analítico | Dinâmico | Proativo | Empático | Senso de Urgência.</b>
 
 <img align="left" alt="igor-pic" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89522757/154803923-d5cbb0a7-a1c2-4afc-8465-77addeefd1ec.gif">
 
