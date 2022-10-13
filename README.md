@@ -7,9 +7,9 @@
  <img align="right" height="175em" src="https://github-readme-stats.vercel.app/api?username=DwIgor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block"><br>
  
-- 📚  <b> Analise e Desenvolvimento de Sistemas - Fam Oficial.</b>
+- 📚  <b> Analise e Desenvolvimento de Sistemas - Fam - Faculdade das Américas.</b>
 - 🎓   <b>Desenvolvedor Web Full Stack Java - Generetion Brasil.</b>
-- 🎓  <b>Técnico em Informática - Cisco Net Academy.</b>
+- 🎓   <b>Técnico em Informática - Cisco Net Academy.</b>
 - 🎓   <b>Técnico em Informática - Senac 
 - :3rd_place_medal: Semi Finalista do Programa EmpreendaSenac com a Caneta BETs.</b>
 
