@@ -3,7 +3,7 @@
 
 
 
- # Prazer! Igor Mendes. 
+ # Olá! Eu sou o Igor. 
  <img align="right" height="175em" src="https://github-readme-stats.vercel.app/api?username=DwIgor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block"><br>
  
@@ -16,7 +16,7 @@
  
 ## Estudadando | Studying 
 <div>
-  <a href = "https://www.oracle.com/java/technologies/javase-documentation.html"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+  <a href = "https://docs.python.org/pt-br/3/tutorial/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a> 
     <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> 
     <a href="https://devcenter.heroku.com/categories/reference" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
